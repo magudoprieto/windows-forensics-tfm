@@ -60,3 +60,5 @@ Recopilación de información crítica en la memoria activa del sistema antes de
 
 ## 🎓 Autor
 *   **Marcos Antonio Agudo Prieto** - *Trabajo Fin de Máster*
+
+*   Nota sobre el laboratorio: Este repositorio ha sido reconstruido a modo de portfolio a partir de la documentación del TFM original. El entorno virtualizado y las muestras de memoria RAM vivas ya no se encuentran activas por motivos de almacenamiento, pero los comandos y la metodología descrita son 100% funcionales.
